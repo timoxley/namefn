@@ -14,6 +14,13 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timoxley/namefn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timoxley/namefn/issues"
+  },
+  "homepage": "https://github.com/timoxley/namefn"
 }
