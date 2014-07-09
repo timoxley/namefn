@@ -1,0 +1,19 @@
+{
+  "name": "namefn",
+  "version": "1.0.0",
+  "description": "Rename a function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Tim Oxley <secoif@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^2.12.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  }
+}
