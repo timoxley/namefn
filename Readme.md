@@ -1,6 +1,6 @@
 # namefn
 
-Create an equivalent function with a new name.
+Create a new, equivalent function with the specified name.
 
 The original function's **properties, arity and prototype are maintained** with the newly named function.
 
