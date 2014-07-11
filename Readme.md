@@ -2,6 +2,8 @@
 
 Create an equivalent function with a new name.
 
+The original function's **properties, arity and prototype are maintained** with the newly named function.
+
 ```js
 var nameFn = require('namefn')
 
@@ -15,9 +17,6 @@ var OtherUser = nameFn('OtherUser', User)
 
 console.log(new OtherUser()) // OtherUser {}
 ```
-
-The original function's properties, arity and prototype are maintained
-with the newly named function.
 
 ## See Also
 
